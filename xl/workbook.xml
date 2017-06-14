@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workbook mc:Ignorable="x15" xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main">
+	<fileVersion appName="xl" lastEdited="7" lowestEdited="5" rupBuild="17927"/>
+	<workbookPr defaultThemeVersion="124226"/>
+	<mc:AlternateContent xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+		<mc:Choice Requires="x15">
+			<x15ac:absPath url="C:\Users\jvera\Documents\" xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac"/>
+		</mc:Choice>
+	</mc:AlternateContent>
+	<bookViews>
+		<workbookView activeTab="10" firstSheet="7" windowHeight="6225" windowWidth="17235" xWindow="240" yWindow="75"/>
+	</bookViews>
+	<sheets>
+		<sheet name="TipoCotizanteVsTipoPlanilla" r:id="rId1" sheetId="2"/>
+		<sheet name="Sheet1" r:id="rId2" sheetId="11"/>
+		<sheet name="TipoCotizanteVsClaseAportante" r:id="rId3" sheetId="3"/>
+		<sheet name="TipoPersonaVsTipoAportante" r:id="rId4" sheetId="4"/>
+		<sheet name="TipoAportanteVsClaseAportante" r:id="rId5" sheetId="8"/>
+		<sheet name="NaturalezaVsTipoCotizante" r:id="rId6" sheetId="5"/>
+		<sheet name="NaturalezaVsTipoPlanilla" r:id="rId7" sheetId="6"/>
+		<sheet name="TipoAportanteVsNaturaleza" r:id="rId8" sheetId="7"/>
+		<sheet name="TipoPersonaVsTipoCotizante" r:id="rId9" sheetId="9"/>
+		<sheet name="IARVsTipoCotizante" r:id="rId10" sheetId="10"/>
+		<sheet name="imagenasdf" r:id="rId11" sheetId="12"/>
+	</sheets>
+	<calcPr calcId="145621"/>
+</workbook>
